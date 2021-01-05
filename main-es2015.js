@@ -68,7 +68,8 @@
                 ]
             });
             (function() {
-                (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsetNgModuleScope"](AppRoutingModule, { imports: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterModule"]], exports: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterModule"]] }); })();
+                (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsetNgModuleScope"](AppRoutingModule, { imports: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterModule"]], exports: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterModule"]] });
+            })();
             /*@__PURE__*/
             (function() {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AppRoutingModule, [{
@@ -318,7 +319,7 @@
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "div", 17);
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "p");
-                        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, "Copyright 2020 Daniel Fesalbon");
+                        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, "Daniel Fesalbon");
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
